@@ -1,7 +1,7 @@
 {
   "name": "froms",
   "version": "0.0.1",
-  "description": "A helper function to assist in creation of classical-kile inheritance in a semantic way",
+  "description": "A helper function to assist in creation of classical-like inheritance in a semantic way",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
