@@ -1,0 +1,24 @@
+{
+  "name": "froms",
+  "version": "0.0.1",
+  "description": "A helper function to assist in creation of classical-kile inheritance in a semantic way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devdots/froms"
+  },
+  "keywords": [
+    "inheritance",
+    "javascript",
+    "class"
+  ],
+  "author": "Florin Iacob (devdots/bigdot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devdots/froms/issues"
+  },
+  "homepage": "https://github.com/devdots/froms"
+}
