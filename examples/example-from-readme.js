@@ -1,17 +1,3 @@
-# froms
-
-Extending from previos experiment with kone-js, this is a skimemr version that is trying to do less.
-The whole ideea is to create an classical-like inheritance system based on what javascript has to offer,
-and that is, offering an inheritance based of awareness of the parent using wrapped creation contexts.
-
-You could normally live without this, but it just makes things prettier.
-
-## Usage
-
-There no better explenation than a little code
-
-```js
-
 var MyBaseClass = From( function(extend) {
   // this is the constructor, alias the name as self
   var Self  = function MyBaseClass(options) {
@@ -127,12 +113,3 @@ other.hello();
 console.log("Runnig .myColor()");
 other.myColor()
 // --> my color is purple
-
-```
-
-
-
-
-## The End
-
-Bigdot

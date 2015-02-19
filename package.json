@@ -1,6 +1,6 @@
 {
   "name": "froms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A helper function to assist in creation of classical-like inheritance in a semantic way",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,9 @@
     "javascript",
     "class"
   ],
+  "_npmUser": {
+    "name": "devdots"
+  },
   "author": "Florin Iacob (devdots/bigdot)",
   "license": "MIT",
   "bugs": {
